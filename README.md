@@ -3,7 +3,7 @@
 
   # Text Editor (PWA)
   
-  Link to deployed application => http://localhost:3000/
+  Link to deployed application => http://localhost:3000
   
   ## Table of Contents
 - [Description](#description)
